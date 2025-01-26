@@ -1,0 +1,110 @@
+body    {
+        background-color:rgb(88, 30, 87);
+        background-image: url('https://img.freepik.com/free-photo/multi-colored-psychedelic-background_23-2148805280.jpg');
+        background-size: cover;
+        background-repeat:no-repeat;
+        }
+
+h1 {
+    width: 775px;
+    color:rgb(173, 23, 53);
+    font-family:Peignot;
+    font-size: 95px;
+    margin-left: 5px;
+    margin-right: 250px;
+    margin-top: 5px;
+    background-color: aliceblue;  
+    border: 15px solid black;
+    }
+   
+    
+  h2 { 
+       font-family:Peignot;
+        font-size: 35px;
+        margin-right: 750px;
+        margin-left: 50x;
+        margin-top: 10px;
+        width: 775px;
+        color:rgb(173, 23, 53); 
+        background-color: aliceblue;
+        border: 10px solid black;
+        }
+    
+        #first {
+            color:rgb(173, 23, 53);
+            font-family: Peignot;
+            font-size: 25px;
+            margin-left: 5px;
+            width: 350px;
+            margin-top: 5px;
+            background-color: aliceblue;
+            border: 10px solid black;
+            }
+
+            .barb1 {float: left;}
+
+    #second {
+            color: rgb(173, 23, 53);
+            font-family: Peignot;
+            font-size: 25px;
+            margin-left: 35px;
+            margin-top: 5px;
+            width: 350px;
+            float: left;
+            background-color: aliceblue;
+            border: 10px solid black;
+            }
+
+    img {
+        width: 38%; height: 38%;
+        float:left;
+        border: 10px solid rgb(137, 220, 169);
+        margin-left: 45px;
+        }
+
+    .image {
+            margin-left: 5px;
+             }
+
+
+        
+    #third {
+            color:rgb(173, 23, 53);
+            background-color: aliceblue;
+            border: 10px solid black;
+            font-size:35px;
+            font-family: Peignot;
+            width: 225px;
+            margin-left: 45px;
+            margin-top: 10px;
+            float: left;
+            }
+
+    .link {
+            float:left;
+
+    }
+
+    p   {
+        margin-left: 575px;
+        width:15%;
+        font-size:35px;
+        }
+        
+    p{
+        color:rgb(173, 23, 53);
+        font-family: Peignot;
+        margin-left:550px;
+        background-color:aliceblue;
+        border: 10px solid black;
+        }
+
+    #fourth {
+            font-size: 20px;
+            width: 18%;
+            float:left;
+            margin-left: 20px;
+            margin-top: 10px;
+    }
+
+            
